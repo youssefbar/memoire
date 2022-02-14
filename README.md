@@ -8,8 +8,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019.
 
 ## Utilisation
 
-### Installer les librairies utilisees 
-```
+### Installer les librairies utilisees
 
 ```
 pip install tensorflow-gpu==1.14.0

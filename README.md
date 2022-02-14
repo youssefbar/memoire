@@ -1,4 +1,4 @@
-# Experimentations basé surl'implementation de Adaptive Self-paced Deep Clustering with Data Augmentation (ASPC-DA):
+# Experimentations basées surl'implementation de Adaptive Self-paced Deep Clustering with Data Augmentation (ASPC-DA):
 
 
 * Xifeng Guo, Xinwang Liu, En Zhu, et al. [Adaptive Self-paced Deep Clustering with Data Augmentation](https://xifengguo.github.io/papers/TKDE19-ASPC-DA.pdf). 
